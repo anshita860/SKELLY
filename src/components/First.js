@@ -11,10 +11,10 @@ function First() {
         <div>
         <Container1>
             <Log>
-              <a href="">LOGIN</a>
+              <a href="#">LOGIN</a>
             </Log>
             <Sign>
-               <a href="">SIGNUP</a> 
+               <a href="#">SIGNUP</a> 
             </Sign>
             
         </Container1>

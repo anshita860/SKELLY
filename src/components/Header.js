@@ -14,9 +14,9 @@ function Header() {
                 </Title>
             </First>
             <Second>
-               <a href="">Men</a>
-               <a href="">Women</a>
-               <a href="">Kids</a>
+               <a href="#">Men</a>
+               <a href="#">Women</a>
+               <a href="#">Kids</a>
             </Second>
             <Third>
               <img src="/assets/images/search3.png" alt="Search" />
