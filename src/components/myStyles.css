@@ -1,0 +1,7 @@
+.formclass{
+    display: flex;
+    flex-direction: column;
+}
+.fontweight{
+    font-weight: 400;
+}
