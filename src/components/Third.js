@@ -9,7 +9,7 @@ function Third() {
                  Your cart
                 </Heading>
                 <Container1>
-                 <img src="/assets/images/tshirt.jpg" alt="T-shirt" />
+                 <img src="./assets/images/tshirt.jpg" alt="T-shirt" />
                  <Content>
                      <Text1 className="fontweight">
                        T-Shirt
@@ -23,7 +23,7 @@ function Third() {
                  </Text3>
                 </Container1>
                 <Container2>
-                <img src="/assets/images/tshirt2.jpg" alt="T-shirt" />
+                <img src="./assets/images/tshirt2.jpg" alt="T-shirt" />
                  <Content>
                      <Text1 className="fontweight">
                        Basic Slim
@@ -46,7 +46,7 @@ function Third() {
                           
                 </Container3>
                 <Container4>
-                  <img src="/assets/images/truck.png" alt="Delivery" />
+                  <img src="./assets/images/truck.png" alt="Delivery" />
                   <Content>
                   <Text1>
                     You are $30.02 away

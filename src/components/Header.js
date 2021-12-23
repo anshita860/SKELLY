@@ -7,7 +7,7 @@ function Header() {
           <Nav>
             <First>
                <Logo>
-                <img src="/assets/images/logo.png" alt="iShop" />
+                <img src="./assets/images/logo.png" alt="iShop" />
                </Logo>
                 <Title>
                   E-Shop
@@ -19,9 +19,9 @@ function Header() {
                <a href="#">Kids</a>
             </Second>
             <Third>
-              <img src="/assets/images/search3.png" alt="Search" />
-              <img src="/assets/images/cart2.png" alt="Your Cart" />
-              <img src="/assets/images/person5.png" alt="Profile" />
+              <img src="./assets/images/search3.png" alt="Search" />
+              <img src="./assets/images/cart2.png" alt="Your Cart" />
+              <img src="./assets/images/person5.png" alt="Profile" />
             </Third>
           </Nav>
         </div>
